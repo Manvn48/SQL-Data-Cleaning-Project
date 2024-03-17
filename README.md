@@ -17,12 +17,12 @@ To begin using this project, you'll need:
 
 The data cleaning process involves several steps, including:
 
-- Standardizing data formats.
-- Handling missing or null values.
-- Correcting inconsistencies.
-- Normalizing data where applicable.
-- Removing duplicate records.
-- Deleting unused columns.
+- **Standardizing data formats.**
+- **Handling missing or null values.**
+- **Correcting inconsistencies.**
+- **Normalizing data where applicable.**
+- **Removing duplicate records.**
+- **Deleting unused columns.**
 
 
 
