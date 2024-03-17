@@ -1,12 +1,12 @@
 # Nashville Housing Data Cleaning Project done on SQL Server 
 <br>
 
-## Data Cleaning Process: ## <br>
+## Data Cleaning Process: <br>
 <br>
 
 The data cleaning process involves several steps, including:
 
-* Standardizing data formats.<br>
+*Standardizing data formats.<br>
 * Handling missing or null values. <br>
 * Correcting inconsistencies. <br>
 * Normalizing data where applicable. <br>
